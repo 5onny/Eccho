@@ -1,0 +1,84 @@
+<resources>
+    <string name="prompt_email">sign in</string>
+    <string name="prompt_password">password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">password</string>
+    <string name="permission_rationale">permisson rationale</string>
+    <string name="error_invalid_password">invalid password</string>
+    <string name="error_field_required">field required</string>
+    <string name="error_invalid_email">invalid email</string>
+    <string name="error_incorrect_password">incorrect password</string>
+
+    <string name="app_name">ECCHO</string>
+    <string name="faq_name">FAQ</string>
+
+    <string name="action_profil">Profil</string>
+    <string name="action_setting">Impressum</string>
+
+    <string name="action_bahnbuchung1">Profil erstellen</string>
+    <string name="action_bahnbuchung2">BahnCard bestellen</string>
+    <string name="action_bahnbuchung3">Bahnbestellung vornehmen</string>
+
+
+    <string name="chat_button">Chat</string>
+    <string name="faq_button">FAQ</string>
+    <string name="kontakte_button">Kontakte</string>
+    <string name="profil_button">Profil</string>
+    <string name="kalender_button">Kalender</string>
+    <string name="title_activity_faq">Faq</string>
+
+    <string name="choise_1_string">Bahnbuchung</string>
+    <string name="choise_2_string">FAQ Element 2</string>
+    <string name="choise_3_string">FAQ Element 3</string>
+    <string name="title_activity_faq_element_1">Bahnbuchung</string>
+    <string name="title_activity_faq_element_2">faq_element_2</string>
+    <string name="title_activity_faq_element_3">faq_element_3</string>
+    <string name="title_activity_profil">Profil</string>
+
+    <string-array name="spinnerLehrjahr">
+        <item>1. Lehrjahr</item>
+        <item>2. Lehrjahr</item>
+        <item>3. Lehrjahr</item>
+    </string-array>
+
+    <string-array name="spinnerAusbildung">
+        <item>Fachinformatiker für Systemintegration (m/w)</item>
+        <item>Fachinformatiker für Anwendungsentwicklung (m/w)</item>
+        <item>Bürokaufmann (m/w)</item>
+        <item>IT-Systemkaufmann (m/w)</item>
+        <item>Fachkraft für Lagerlogistik (m/w)</item>
+        <item>Informatikkaufmann (m/w)</item>
+        <item>IT-Systemelektroniker (m/w)</item>
+        <item>Industriekaufmann (m/w)</item>
+    </string-array>
+
+    <string-array name="spinnerKostenstelle">
+        <item>DECHA20020</item>
+    </string-array>
+
+    <string-array name="spinnaerStandort">
+        <item>Berlin</item>
+        <item>Hamburg</item>
+        <item>Hannover</item>
+        <item>Ratingen</item>
+        <item>Kerpen</item>
+        <item>Erfurt</item>
+        <item>Frankfurt</item>
+        <item>Ludwigshafen</item>
+        <item>Nürnberg</item>
+        <item>Stuttgart</item>
+        <item>München</item>
+    </string-array>
+
+    <string-array name="spinnerPV">
+        <item>Manuela Pippig</item>
+        <item>Susanne Boecker</item>
+        <item>Kristina Fink</item>
+        <item>Anna Hemmersbach</item>
+        <item>Katharina Müller</item>
+        <item>Ruth Pelger</item>
+        <item>Cornelia Kalscheuer</item>
+    </string-array>
+    <string name="title_activity_test">test</string>
+    <string name="title_activity_main2">ECCHO</string>
+</resources>
